@@ -15,7 +15,7 @@ The project also includes screenshots of the analysis, charts, and forecast visu
 
 The complete analysis, methodology, LLM comparison, financial forecasts, and supporting visuals are available in the detailed project report.
 
-[ View Full Project Report](<Microsoft-GenAI-Financial-Forecasting-LLM-Comparative-Analysis.docx>)
+[ View Full Project Report](<Microsoft GenAI Financial Forecasting – LLM Comparative Analysis.docx>) 
 
 ## Project Objective
 
