@@ -62,6 +62,13 @@ It:
 * Observed positive operating leverage at the gross profit level
 * Used recent YoY growth trends to forecast Revenue and COGS
 * Derived Gross Profit from the forecasted values
+<img width="754" height="328" alt="image" src="https://github.com/user-attachments/assets/1b2e6c9f-5439-4eb3-898e-7df959514260" />
+
+<img width="889" height="338" alt="image" src="https://github.com/user-attachments/assets/b750b99d-7041-4e7d-a40e-c3d253606126" />
+<img width="923" height="419" alt="image" src="https://github.com/user-attachments/assets/f16a183a-2af9-407c-8170-e9ffa587ece4" />
+<img width="1023" height="507" alt="image" src="https://github.com/user-attachments/assets/d0801e9c-ee8b-47fe-af0c-92eed7b5e9b3" />
+<img width="1022" height="507" alt="image" src="https://github.com/user-attachments/assets/8a7fb445-e482-4a8e-993f-06724da2490e" />
+
 
 **Strength:** Clear, financially intuitive, and easy to validate.
 
@@ -82,6 +89,9 @@ It:
 * Tested an additional trend-based scenario
 * Assessed whether projected margins remained financially reasonable
 
+<img width="822" height="410" alt="image" src="https://github.com/user-attachments/assets/e1bc8fbd-b636-4979-a7fa-f571cec398be" />
+<img width="820" height="384" alt="image" src="https://github.com/user-attachments/assets/85389e18-69b7-4c3d-9ebe-cafa62d80b3b" />
+<img width="829" height="403" alt="image" src="https://github.com/user-attachments/assets/3dbe457c-60c1-40cd-a9d0-cf80988143fa" />
 A key observation was that trend extrapolation could push gross margins to approximately **72% to 74%**, above recent historical levels.
 
 **Strength:** Strong assumption testing and financial reasonableness checks.
