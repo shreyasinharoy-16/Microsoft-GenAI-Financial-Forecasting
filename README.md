@@ -26,6 +26,7 @@ The objective was to evaluate whether Generative AI can support financial analys
 
 The broader goal was not simply to identify the most advanced model, but to understand which approach provides the best balance of **financial reasoning, transparency, and analytical usefulness**.
 
+
 ---
 
 ## Financial Framework
